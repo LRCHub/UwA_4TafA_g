@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "小さな野望",
+  "base_artist": "初星学園",
+  "createdAt": "2026-03-01T03:39:12.223463Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "小さな野望",
+      "artist": "初星学園 & 十王星南",
+      "has_synced": false,
+      "path": "select/pl_01_小さな野望_初星学園_&_十王星南.txt"
+    }
+  ]
+}
